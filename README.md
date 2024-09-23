@@ -3,7 +3,7 @@
 ## Dependencies
 - ros noetic [http://wiki.ros.org/noetic/Installation/Ubuntu](http://wiki.ros.org/noetic/Installation/Ubuntu), or [using docker](#using-docker)
 - moveit [install here](https://moveit.ros.org/install/)
-- track-ik kinematics solver [install here](https://ros-planning.github.io/moveit_tutorials/doc/trac_ik/trac_ik_tutorial.html)
+- track-ik kinematics solver [install here]([https://ros-planning.github.io/moveit_tutorials/doc/trac_ik/trac_ik_tutorial.html](http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/trac_ik/trac_ik_tutorial.html#install))
 - [ros-noetic-robot-state-publisher](http://wiki.ros.org/robot_state_publisher)
 
 ## Using docker
